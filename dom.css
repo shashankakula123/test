@@ -1,0 +1,15 @@
+#text-wrapper{
+      display:flex;
+      justify-content: center;
+      align-items: center;
+      width:100%;
+      height:100vh;
+
+}
+
+#countdown{
+      font-size: 500px;
+}
+body{
+      margin:0px;
+}
